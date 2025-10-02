@@ -13,7 +13,7 @@ To build a vibrant digital space where Ghanaian youth can share their voices, di
 - **Events:** Meetups, webinars, hackathons
 - **Connect:** Forum, mentorship, Telegram/Discord
 
-## 🛠 Tech Stack
+## 🛠 Tech StacK
 - Astro or Next.js (frontend)
 - Sanity or MDX (content)
 - Firebase or Supabase (backend)
